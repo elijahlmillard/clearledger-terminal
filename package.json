@@ -1,7 +1,7 @@
 {
   "name": "clearledger-terminal",
   "scripts": {
-    "start": "wetty --ssh-host pub400.com --ssh-port 2222 --port $PORT --base /"
+    "start": "wetty --ssh-host pub400.com --ssh-port 2222 --port $PORT"
   },
   "dependencies": {
     "wetty": "latest"
