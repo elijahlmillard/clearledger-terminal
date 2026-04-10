@@ -4,6 +4,6 @@
     "start": "wetty --ssh-host pub400.com --ssh-port 2222 --port $PORT"
   },
   "dependencies": {
-    "wetty": "latest"
+    "wetty": "2.5.0"
   }
 }
